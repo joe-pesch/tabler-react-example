@@ -14,7 +14,7 @@ import {
   Email,
   ProfilePage,
 } from "./pages";
-
+ 
 import HomePage from "./HomePage.react";
 import FormElementsPage from "./FormElementsPage.react";
 import PricingCardsPage from "./interface/PricingCardsPage.react";
